@@ -3,5 +3,5 @@ CS5785 Cornell University
 ----
 HW 1-4 Kaggle Competition
 ----
-Final Project: Image Retrieve System
+Final Project: Image Retrieval System
 ----
